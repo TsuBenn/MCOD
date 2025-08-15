@@ -1,6 +1,11 @@
 # MCOD (by TsuBenn)
 Bringing Guns and more Tactical Equipment to Vanilla Minecraft
 
+## Why make MCOD?
+I made this datapack so that I can play First Person Shooters with friends while having the ability of creating my own play ground.\
+\
+The reason why this is a datapack and not mod is for the same reason, Mod sometimes can be a little bother some to deal with and install. Meanwhile with datapack, all your friends need to download is the resource pack and join your server/ world with the datapack installed and every one can have fun!
+
 ## Right of Use
 You can use this datapack to have fun. You can also try to use this datapack to make content out of, but try your best to credit me!\
 \
@@ -9,11 +14,6 @@ If you wanna contribute to the project, unfortunately, I'm not looking for contr
 Please do not repost or claim this project as your doing. Any form of modification to the original "code" will not be accepted.\
 \
 Anyhow, if you wanna help build this project, you can always share your feedbacks and ideas through comments on my Youtube video or through the Issue tabs.
-
-## Why make MCOD?
-I made this datapack so that I can play First Person Shooters with friends while having the ability of creating my own play ground.\
-\
-The reason why this is a datapack and not mod is for the same reason, Mod sometimes can be a little bother some to deal with and install. Meanwhile with datapack, all your friends need to download is the resource pack and join your server/ world with the datapack installed and every one can have fun!
 
 ## Inspiration for this datapack
 This datapack is heavily influenced by Call of Duty: Modern Warfare 2019 and also the up coming Battlefield 6.\
