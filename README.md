@@ -21,11 +21,11 @@ This datapack is heavily influenced by Call of Duty: Modern Warfare 2019 and als
 All the sound effects in this resourcepack came form CODMW 2019. I don't know if I'm allowed to use it but uh... we'll see, I guess?
 
 ## Progress
-You can watch *some* of my progress on my [main Youtube channel](youtube.com/@pham_benn) as I will usually stream myself "coding" this datapack.\
+You can watch *some* of my progress on my [main Youtube channel](https://youtube.com/@pham_benn) as I will usually stream myself "coding" this datapack.\
 All of the changelog video where I show all the main changes and new features will be on my [alternate Youtube channel](https://www.youtube.com/@tsubenn4423).
 
 ## Support me
-You can support me via my [main Youtube channel](youtube.com/@pham_benn) or my [alternate Youtube channel](https://www.youtube.com/@tsubenn4423).\
+You can support me via my [main Youtube channel](https://youtube.com/@pham_benn) or my [alternate Youtube channel](https://www.youtube.com/@tsubenn4423).\
 You can also download and use the datapack and report bugs via the Issues tab.
 
 ## My Todo List (15th Aug 2025)
