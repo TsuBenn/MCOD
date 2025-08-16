@@ -40,10 +40,10 @@ You can also download and use the datapack and report bugs via the Issues tab.
 - [x] Whizby sounds
 - [x] Re-Implement the Guns Foundation
 - [x] Create a way to make custom guns
+- [x] Add some parkour
 - [ ] Add Hu Tao iron sight (Exclusive)
 - [ ] Add Tac sprint
 - [ ] Add Sliding
-- [ ] Add some parkour
 - [ ] Add Window breaking when running through glass
 - [ ] Add Attachments as Enchantments
 - [ ] Add Riot shield
