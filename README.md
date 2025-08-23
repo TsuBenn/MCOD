@@ -41,6 +41,7 @@ You can also download and use the datapack and report bugs via the Issues tab.
 - [x] Re-Implement the Guns Foundation
 - [x] Create a way to make custom guns
 - [x] Add some parkour
+- [x] Add Assault Rifle (Ak-47, M4A1, etc.)
 - [ ] Add Hu Tao iron sight (Exclusive)
 - [ ] Add Tac sprint
 - [ ] Add Sliding
@@ -49,7 +50,6 @@ You can also download and use the datapack and report bugs via the Issues tab.
 - [ ] Add Riot shield
 - [ ] Re-implement ADS Zoom using fragment shaders
 - [ ] Add more Pistols (Dessert Eagle, Five-Seven, Glock 17, etc.)
-- [ ] Add Assault Rifle (Ak-47, M4A1, etc.)
 - [ ] Add Sniper Rifle (Kar98, AWM, Barrette .50 Cal, M24, etc.)
 - [ ] Add Shotgun (Sawed off, Mossberg, etc.)
 - [ ] Add Rocket Launcher (RPG, Bazooka, Lock-on thing, etc.)
@@ -63,3 +63,4 @@ You can also download and use the datapack and report bugs via the Issues tab.
 - [ ] Add Akimbo?????
 - [ ] Add Lazer Gun?????
 - [ ] Add Gunblade????
+- [ ] Add Wall run???
